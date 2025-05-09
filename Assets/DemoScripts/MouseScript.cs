@@ -32,6 +32,6 @@ public class MouseScript : MonoBehaviour
             worldPrevFrame = Vector3.zero;
 
         }
-        Debug.Log("current Position " + worldCurrFrame);
+       // Debug.Log("current Position " + worldCurrFrame);
     }
 }
